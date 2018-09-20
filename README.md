@@ -241,6 +241,8 @@ A curated list of awesome Java frameworks, libraries and software.
 - [sql2o](https://sql2o.org) - Thin JDBC wrapper that simplifies database access and provides simple mapping of ResultSets to POJOs.
 - [Vibur DBCP](https://www.vibur.org) - JDBC connection pool library with advanced performance monitoring capabilities.
 - [Xodus](https://jetbrains.github.io/xodus) - Highly concurrent transactional schema-less and ACID-compliant embedded database.
+- [Jackrabbit](http://jackrabbit.apache.org/jcr/index.html) - Hierarchical content store (content repository) with support for structured and unstructured content, full text search, versioning, transactions, observation, and more.
+
 
 ### Data Structures
 
@@ -995,6 +997,10 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Ratpack](https://ratpack.io) - Set of libraries that facilitate fast, efficient, evolvable and well-tested HTTP applications.
 - [Takes](https://github.com/yegor256/takes) - Opinionated web framework which is built around the concepts of True Object-Oriented Programming and immutability.
 - [Vaadin](https://vaadin.com/home) - Event-driven framework built on top of GWT. Uses server-side architecture with Ajax on the client side.
+
+### Miscellaneous
+- [Xinha](http://trac.xinha.org/) - WYSIWYG HTML editor component
+- [Wicket]() - Component oriented, serverside, Java web application framework
 
 ## Resources
 
